@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:C:/Users/Mingina/Workspace/bars/bar-project/conf/routes
-// @DATE:Tue Sep 05 23:45:37 EAT 2017
+// @DATE:Wed Sep 06 00:29:51 EAT 2017
 
 import play.api.routing.JavaScriptReverseRoute
 
@@ -23,6 +23,16 @@ package controllers.javascript {
     // @LINE:6
     def index: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.HomeController.index",
+      """
+        function() {
+          return _wA({method:"GET", url:"""" + _prefix + """"})
+        }
+      """
+    )
+  
+    // @LINE:8
+    def hello: JavaScriptReverseRoute = JavaScriptReverseRoute(
+      "controllers.HomeController.hello",
       """
         function(name0) {
           return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + encodeURIComponent((""" + implicitly[play.api.mvc.PathBindable[String]].javascriptUnbind + """)("name", name0))})
@@ -52,7 +62,7 @@ package controllers.javascript {
   
   }
 
-  // @LINE:8
+  // @LINE:7
   class ReverseUserController(_prefix: => String) {
 
     def _defaultPrefix: String = {
@@ -70,7 +80,7 @@ package controllers.javascript {
       """
     )
   
-    // @LINE:8
+    // @LINE:7
     def userGet: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.UserController.userGet",
       """

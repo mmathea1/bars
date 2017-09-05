@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
 // @SOURCE:C:/Users/Mingina/Workspace/bars/bar-project/conf/routes
-// @DATE:Tue Sep 05 23:45:37 EAT 2017
+// @DATE:Wed Sep 06 00:29:51 EAT 2017
 
 import play.api.mvc.Call
 
@@ -20,7 +20,13 @@ package controllers {
 
   
     // @LINE:6
-    def index(name:String): Call = {
+    def index(): Call = {
+      
+      Call("GET", _prefix)
+    }
+  
+    // @LINE:8
+    def hello(name:String): Call = {
       
       Call("GET", _prefix + { _defaultPrefix } + play.core.routing.dynamicString(implicitly[play.api.mvc.PathBindable[String]].unbind("name", name)))
     }
@@ -42,7 +48,7 @@ package controllers {
   
   }
 
-  // @LINE:8
+  // @LINE:7
   class ReverseUserController(_prefix: => String) {
     def _defaultPrefix: String = {
       if (_prefix.endsWith("/")) "" else "/"
@@ -55,7 +61,7 @@ package controllers {
       Call("POST", _prefix + { _defaultPrefix } + "user")
     }
   
-    // @LINE:8
+    // @LINE:7
     def userGet(): Call = {
       
       Call("GET", _prefix + { _defaultPrefix } + "user")

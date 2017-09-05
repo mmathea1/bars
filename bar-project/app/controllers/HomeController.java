@@ -20,11 +20,14 @@ public class HomeController extends Controller {
      * <code>GET</code> request with a path of <code>/</code>.
      */
 
-    public Result index(String name)
+    public Result index()
     {
-        return ok("Hello " +name);
+        return redirect(controllers.routes.HomeController.hello("Avator"));
     }
 
+    public Result hello(String name){
+        return ok("Hello " +name);
+    }
 
 
 

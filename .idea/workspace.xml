@@ -3,12 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="5b95213f-ca4a-40e0-bf0c-8a1d02dca793" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/HomeController.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/HomeController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/views/html/index$.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/views/html/index$.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/ReverseAssets.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/ReverseAssets.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/ReverseHomeController.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/ReverseHomeController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/ReverseUserController.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/ReverseUserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/javascript/ReverseAssets.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/javascript/ReverseAssets.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/javascript/ReverseHomeController.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/javascript/ReverseHomeController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/javascript/ReverseUserController.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/controllers/javascript/ReverseUserController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/router/Routes$$anonfun$routes$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/router/Routes.class" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/router/Routes.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterPath="$PROJECT_DIR$/bar-project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/streams/compile/copyResources/$global/streams/copy-resources" afterPath="$PROJECT_DIR$/bar-project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/streams/compile/playRoutes/$global/streams/op-cache" afterPath="$PROJECT_DIR$/bar-project/target/streams/compile/playRoutes/$global/streams/op-cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/app/controllers/HomeController.java" afterPath="$PROJECT_DIR$/bar-project/app/controllers/HomeController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/conf/routes" afterPath="$PROJECT_DIR$/bar-project/conf/routes" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/logs/application.log" afterPath="$PROJECT_DIR$/bar-project/logs/application.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/twirl/main/views/html/index.template.scala" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/twirl/main/views/html/index.template.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/routes" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/classes/routes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/controllers/ReverseRoutes.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/controllers/javascript/JavaScriptReverseRoutes.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/controllers/routes.java" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/controllers/routes.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/router/Routes.scala" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/router/Routes.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/router/RoutesPrefix.scala" afterPath="$PROJECT_DIR$/bar-project/target/scala-2.12/routes/main/router/RoutesPrefix.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/bar-project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/bar-project/target/streams/compile/compileIncremental/$global/streams/out" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterPath="$PROJECT_DIR$/bar-project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/streams/compile/playEnhancerGenerateAccessors/$global/streams/play_instrumentation_2.12" afterPath="$PROJECT_DIR$/bar-project/target/streams/compile/playEnhancerGenerateAccessors/$global/streams/play_instrumentation_2.12" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bar-project/target/streams/compile/playEnhancerRewriteAccessors/$global/streams/play_instrumentation_2.12" afterPath="$PROJECT_DIR$/bar-project/target/streams/compile/playEnhancerRewriteAccessors/$global/streams/play_instrumentation_2.12" />
@@ -43,8 +60,8 @@
       <file leaf-file-name="routes" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bar-project/conf/routes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="87" lean-forward="false" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+            <state relative-caret-position="136">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -53,12 +70,14 @@
       <file leaf-file-name="HomeController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bar-project/app/controllers/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="241">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#599#600#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#670#671#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#750#751#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,8 +171,8 @@
         <option value="$PROJECT_DIR$/bar-project/app/views/user/form.scala.html" />
         <option value="$PROJECT_DIR$/bar-project/app/controllers/UserData.java" />
         <option value="$PROJECT_DIR$/bar-project/conf/application.conf" />
-        <option value="$PROJECT_DIR$/bar-project/conf/routes" />
         <option value="$PROJECT_DIR$/bar-project/app/views/index.scala.html" />
+        <option value="$PROJECT_DIR$/bar-project/conf/routes" />
         <option value="$PROJECT_DIR$/bar-project/app/controllers/HomeController.java" />
       </list>
     </option>
@@ -443,8 +462,10 @@
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -534,8 +555,10 @@
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -605,14 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bar-project/conf/routes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="87" lean-forward="false" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bar-project/app/views/index.scala.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -621,14 +636,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bar-project/conf/routes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bar-project/app/controllers/HomeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="241">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#599#600#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#670#671#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
           </folding>
         </state>
       </provider>

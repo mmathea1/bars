@@ -3,10 +3,10 @@
 # ~~~~
 
 # An example controller showing a sample home page
-GET     /:name                           controllers.HomeController.index(name : String)
-#GET    /                           controllers.HomeController.newUser()
-GET     /user                          controllers.UserController.userGet()
-POST    /user                          controllers.UserController.userPost()
+GET     /                           controllers.HomeController.index
+GET     /user                        controllers.UserController.userGet()
+GET    /:name                          controllers.HomeController.hello(name : String)
+POST    /user                     controllers.UserController.userPost()
 
 
 # Map static resources from the /public folder to the /assets URL path
