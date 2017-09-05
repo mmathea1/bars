@@ -33,7 +33,7 @@ object index extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.Html
 Seq[Any](format.raw/*1.4*/("""
 
 """),_display_(/*3.2*/main("Welcome to Play")/*3.25*/ {_display_(Seq[Any](format.raw/*3.27*/("""
- 
+
 """)))}),format.raw/*5.2*/("""
 """))
       }
@@ -51,10 +51,10 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: Tue Sep 05 23:57:03 EAT 2017
+                  DATE: Wed Sep 06 00:01:39 EAT 2017
                   SOURCE: C:/Users/Mingina/Workspace/bars/bar-project/app/views/index.scala.html
-                  HASH: 5acfbbc20a35ec42619802fbdb0ac821830a3516
-                  MATRIX: 941->1|1037->3|1067->8|1098->31|1137->33|1172->39
+                  HASH: e208ffabb6a5d22e4c79bf37debce0ae5b4f646f
+                  MATRIX: 941->1|1037->3|1067->8|1098->31|1137->33|1171->38
                   LINES: 28->1|33->1|35->3|35->3|35->3|37->5
                   -- GENERATED --
               */

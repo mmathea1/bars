@@ -844,3 +844,12 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[not found: value
     play.filters.hosts.AllowedHostsFilter
 
 2017-09-05 23:57:41,578 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-41 - Application started (Dev)
+2017-09-06 00:02:26,011 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-50 - Configuration not found for database: No configuration setting found for key 'db'
+2017-09-06 00:02:26,785 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in play-dev-mode-akka.actor.default-dispatcher-50 - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2017-09-06 00:02:26,987 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-50 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+
+2017-09-06 00:02:26,988 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-50 - Application started (Dev)
